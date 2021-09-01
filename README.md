@@ -1,9 +1,3 @@
-# Description !
-## Hello World
+# Alex_Net Implementation
+## This is the python implementation of alexnet algorithm.
 
-This is the begining.
-
-
-## New develop
- 
- Learning new things
